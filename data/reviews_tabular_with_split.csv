@@ -1,0 +1,1801 @@
+review_text,label,split
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,VALIDATE
+"Kargo çok hızlı geldi, ürün kalitesiz çıktı. Hayal kırıklığı.",Olumsuz,TEST
+"Genel olarak standart, çok emin değilim.",Nötr,TRAIN
+Performansı harika ve parasını hak ediyor. Tekrar alırım.,Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme normaldi.",Nötr,TRAIN
+Destek ekibi çözüm sunmadı. Memnun değilim.,Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün gayet iyi. Çok memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,VALIDATE
+"Paketleme sağlam, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TEST
+"Ürün beklediğim gibi değil, sürekli hata verdi. Bir daha almam.",Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,TRAIN
+Stabil ve parasını hak ediyor. Tekrar alırım.,Olumlu,TRAIN
+"Ürün yanlış ürün geldi, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+Beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Genel olarak orta seviye, çok emin değilim.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. İade ettim.",Olumsuz,TRAIN
+Hızlı çalışıyor ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,VALIDATE
+Beklentimin üstünde ve fiyatı uygun. Çok memnun kaldım.,Olumlu,TEST
+Malzeme kalitesi kötü. Bir daha almam.,Olumsuz,TRAIN
+"Genel olarak orta seviye, kararsız kaldım.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama iş görür.,Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TRAIN
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+"Kargo geç geldi, ürün hasarlı geldi. Değişim istedim.",Olumsuz,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. İade ettim.",Olumsuz,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,VALIDATE
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,TEST
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklentimin üstünde ve fiyat/performans mükemmel. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,TRAIN
+Malzeme kalitesi kötü. Bir daha almam.,Olumsuz,TRAIN
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Paketleme çok iyi, ürün gayet iyi. Memnun kaldım.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,VALIDATE
+"Ürün fena değil, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TEST
+"Paketleme düzgün, ürün çok kaliteli. Memnun kaldım.",Olumlu,TRAIN
+"Ürün yanlış ürün geldi, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+Beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Paketleme sağlam, ürün harika. Memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,VALIDATE
+Hızlı çalışıyor ve iyi bir tercih. Kesinlikle tavsiye ederim.,Olumlu,TEST
+Destek ekibi çözüm sunmadı. Memnun değilim.,Olumsuz,TRAIN
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Teslimat orta halliydi, paketleme normaldi.",Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+Hızlı çalışıyor ve fiyatı uygun. Çok memnun kaldım.,Olumlu,VALIDATE
+"Kargo biraz geç geldi, ürün beklediğimden iyi. Çok memnun kaldım.",Olumlu,TEST
+"Teslimat standarttı, paketleme normaldi.",Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme standarttı.",Nötr,TRAIN
+Malzeme kalitesi vasat. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,TRAIN
+"Genel olarak orta seviye, kararsız kaldım.",Nötr,TRAIN
+"Paketleme özenli, ürün gayet iyi. Gayet başarılı.",Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Ürün yanlış ürün geldi, problem çıkardı. Tavsiye etmiyorum.",Olumsuz,VALIDATE
+"Teslimat normaldi, paketleme eh işte.",Nötr,TEST
+Malzeme kalitesi berbat. Bir daha almam.,Olumsuz,TRAIN
+Beklentimin üstünde ve fiyatı uygun. Tekrar alırım.,Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün arızalı çıktı. Hayal kırıklığı.",Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün arızalı çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Teslimat normaldi, paketleme standarttı.",Nötr,TRAIN
+"Paketleme çok iyi, ürün çok kaliteli. Beklentimi karşıladı.",Olumlu,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,VALIDATE
+Stabil ve parasını hak ediyor. Tekrar alırım.,Olumlu,TEST
+Malzeme kalitesi kötü. Bir daha almam.,Olumsuz,TRAIN
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,TRAIN
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Şikayetçiyim.,Olumsuz,TRAIN
+"Teslimat normaldi, paketleme standarttı.",Nötr,TRAIN
+Beklentimin üstünde ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+Performansı harika ve fiyatı uygun. Tekrar alırım.,Olumlu,VALIDATE
+Malzeme kalitesi kötü. Bir daha almam.,Olumsuz,TEST
+"Genel olarak standart, çok emin değilim.",Nötr,TRAIN
+"Paketleme düzgün, ürün çok kaliteli. Gayet başarılı.",Olumlu,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Kargo geç geldi, ürün harika. Tekrar alırım.",Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama idare eder.,Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Paketleme düzgün, ürün harika. Memnun kaldım.",Olumlu,TRAIN
+"Ürün yanlış ürün geldi, performansı kötü. Bir daha almam.",Olumsuz,TRAIN
+Beklediğim kadar çok hızlı değildi ama idare eder.,Nötr,VALIDATE
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,TEST
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Genel olarak idare eder, çok emin değilim.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Paketleme çok iyi, ürün gayet iyi. Memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Paketleme özenli, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün arızalı çıktı. Değişim istedim.",Olumsuz,VALIDATE
+"Ürün anlatıldığı gibi değil, çalışmadı. Tavsiye etmiyorum.",Olumsuz,TEST
+"Kargo çok hızlı geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+"Genel olarak normal, beklentim karışık.",Nötr,TRAIN
+"Teslimat orta halliydi, paketleme normaldi.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. Değişim istedim.",Olumsuz,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+"Genel olarak normal, beklentim karışık.",Nötr,TRAIN
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,VALIDATE
+"Ürün yanlış ürün geldi, performansı kötü. Tavsiye etmiyorum.",Olumsuz,TEST
+"Ürün idare eder, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+"Teslimat beklendiği gibiydi, paketleme standarttı.",Nötr,TRAIN
+Hızlı çalışıyor ve iyi bir tercih. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, çalışmadı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,VALIDATE
+"Kargo biraz geç geldi, ürün eksik geldi. İade süreci çok zordu.",Olumsuz,TEST
+Beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+Stabil ve iyi bir tercih. Çok memnun kaldım.,Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Genel olarak idare eder, deneyim orta.",Nötr,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. Hayal kırıklığı.",Olumsuz,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+Malzeme kalitesi berbat. Bir daha almam.,Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,VALIDATE
+"Ürün fena değil, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TEST
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,TRAIN
+"Teslimat orta halliydi, paketleme eh işte.",Nötr,TRAIN
+"Paketleme düzgün, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Pişman oldum.",Olumsuz,TRAIN
+"Genel olarak standart, deneyim orta.",Nötr,TRAIN
+"Ürün yanlış ürün geldi, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama iş görür.,Nötr,VALIDATE
+"Teslimat normaldi, paketleme standarttı.",Nötr,TEST
+"Ürün idare eder, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Çok kötü deneyim.",Olumsuz,TRAIN
+"Teslimat normaldi, paketleme normaldi.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme eh işte.",Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Hızlı çalışıyor ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+Destek ekibi çözüm sunmadı. Zaman kaybı.,Olumsuz,TRAIN
+"Genel olarak orta seviye, çok emin değilim.",Nötr,VALIDATE
+"Kargo biraz geç geldi, ürün harika. Tekrar alırım.",Olumlu,TEST
+"Teslimat standarttı, paketleme eh işte.",Nötr,TRAIN
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Hızlı çalışıyor ve parasını hak ediyor. Tekrar alırım.,Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+Beklentimin üstünde ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+"Genel olarak standart, kararsız kaldım.",Nötr,TRAIN
+"Ürün beklediğim gibi değil, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün harika. Çok memnun kaldım.",Olumlu,VALIDATE
+Hızlı çalışıyor ve fiyatı uygun. 5/5.,Olumlu,TEST
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün çok kaliteli. Tekrar alırım.",Olumlu,TRAIN
+"Teslimat beklendiği gibiydi, paketleme normaldi.",Nötr,TRAIN
+Beklentimin üstünde ve fiyat/performans mükemmel. 5/5.,Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Beklentimin üstünde ve fiyat/performans mükemmel. 5/5.,Olumlu,VALIDATE
+"Ürün idare eder, işimi görüyor ama geliştirilebilir.",Nötr,TEST
+"Kargo biraz geç geldi, ürün gayet iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Paketleme sağlam, ürün çok kaliteli. Memnun kaldım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Stabil ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+"Genel olarak standart, deneyim orta.",Nötr,TRAIN
+"Paketleme düzgün, ürün beklediğimden iyi. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün çok kaliteli. Çok memnun kaldım.",Olumlu,TRAIN
+Malzeme kalitesi vasat. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TEST
+Beklentimin üstünde ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TRAIN
+"Kargo geç geldi, ürün harika. Çok memnun kaldım.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,TRAIN
+"Teslimat beklendiği gibiydi, paketleme normaldi.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,VALIDATE
+"Kargo zamanında geldi, ürün gayet iyi. Kesinlikle tavsiye ederim.",Olumlu,TEST
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Paketleme sağlam, ürün beklediğimden iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Paketleme çok iyi, ürün harika. Memnun kaldım.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün gayet iyi. 5/5.",Olumlu,VALIDATE
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,TEST
+"Genel olarak idare eder, beklentim karışık.",Nötr,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama iş görür.,Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme eh işte.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,TRAIN
+Beklediğim kadar çok hızlı değildi ama iş görür.,Nötr,VALIDATE
+Destek ekibi ulaşılmazdı. Şikayetçiyim.,Olumsuz,TEST
+Beklentimin üstünde ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TRAIN
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,TRAIN
+"Ürün yanlış ürün geldi, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,VALIDATE
+"Paketleme düzgün, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TEST
+Beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Teslimat normaldi, paketleme normaldi.",Nötr,TRAIN
+"Teslimat normaldi, paketleme vasattı.",Nötr,TRAIN
+"Ürün anlatıldığı gibi değil, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Paketleme özenli, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TRAIN
+"Ürün uyumsuz çıktı, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+Hızlı çalışıyor ve fiyatı uygun. Çok memnun kaldım.,Olumlu,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TEST
+Performansı harika ve parasını hak ediyor. Tekrar alırım.,Olumlu,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Genel olarak normal, kararsız kaldım.",Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Paketleme çok iyi, ürün harika. Memnun kaldım.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün eksik geldi. Hayal kırıklığı.",Olumsuz,VALIDATE
+"Kargo biraz geç geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,TEST
+"Ürün uyumsuz çıktı, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+Beklentimin üstünde ve parasını hak ediyor. Tekrar alırım.,Olumlu,TRAIN
+"Paketleme özenli, ürün beklediğimden iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+Performansı harika ve parasını hak ediyor. 5/5.,Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,VALIDATE
+"Paketleme özenli, ürün harika. Memnun kaldım.",Olumlu,TEST
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TRAIN
+"Paketleme özenli, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün gayet iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+Destek ekibi geç döndü. Şikayetçiyim.,Olumsuz,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün kalitesiz çıktı. İade ettim.",Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Paketleme çok iyi, ürün çok kaliteli. Sorunsuzdu.",Olumlu,VALIDATE
+"Kargo çok hızlı geldi, ürün çok kaliteli. Çok memnun kaldım.",Olumlu,TEST
+"Paketleme özenli, ürün harika. Memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Teslimat orta halliydi, paketleme standarttı.",Nötr,TRAIN
+Hızlı çalışıyor ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+Malzeme kalitesi vasat. Tavsiye etmiyorum.,Olumsuz,TRAIN
+Malzeme kalitesi vasat. Bir daha almam.,Olumsuz,TRAIN
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,VALIDATE
+"Kargo çok hızlı geldi, ürün harika. Tekrar alırım.",Olumlu,TEST
+"Genel olarak normal, kararsız kaldım.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün kalitesiz çıktı. İade ettim.",Olumsuz,TRAIN
+"Paketleme özenli, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün kalitesiz çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+Stabil ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo geç geldi, ürün beklediğimden iyi. Çok memnun kaldım.",Olumlu,VALIDATE
+Performansı harika ve fiyatı uygun. 5/5.,Olumlu,TEST
+"Genel olarak standart, çok emin değilim.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,TRAIN
+"Paketleme düzgün, ürün beklediğimden iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama iş görür.,Nötr,TRAIN
+Beklentimin üstünde ve fiyatı uygun. Çok memnun kaldım.,Olumlu,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Bir daha almam.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün harika. Kesinlikle tavsiye ederim.",Olumlu,VALIDATE
+Destek ekibi hiç yardımcı olmadı. Çözülmedi.,Olumsuz,TEST
+Beklentimin üstünde ve parasını hak ediyor. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Genel olarak standart, çok emin değilim.",Nötr,TRAIN
+"Teslimat orta halliydi, paketleme normaldi.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün gayet iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Genel olarak idare eder, kararsız kaldım.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,VALIDATE
+"Paketleme düzgün, ürün harika. Memnun kaldım.",Olumlu,TEST
+"Kargo biraz geç geldi, ürün çok kaliteli. Çok memnun kaldım.",Olumlu,TRAIN
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Paketleme özenli, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün harika. Çok memnun kaldım.",Olumlu,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+Malzeme kalitesi berbat. Bir daha almam.,Olumsuz,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,VALIDATE
+Destek ekibi geç döndü. Zaman kaybı.,Olumsuz,TEST
+"Ürün beklediğim gibi değil, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Paketleme düzgün, ürün çok kaliteli. Gayet başarılı.",Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme eh işte.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün eksik geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Genel olarak idare eder, çok emin değilim.",Nötr,TRAIN
+"Genel olarak orta seviye, beklentim karışık.",Nötr,VALIDATE
+"Ürün anlatıldığı gibi değil, performansı kötü. Bir daha almam.",Olumsuz,TEST
+"Genel olarak normal, beklentim karışık.",Nötr,TRAIN
+"Teslimat normaldi, paketleme standarttı.",Nötr,TRAIN
+"Paketleme sağlam, ürün gayet iyi. Gayet başarılı.",Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, problem çıkardı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Ürün yanlış ürün geldi, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,VALIDATE
+Performansı harika ve fiyatı uygun. Kesinlikle tavsiye ederim.,Olumlu,TEST
+"Kargo zamanında geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+Malzeme kalitesi vasat. Bir daha almam.,Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün harika. Tekrar alırım.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün gayet iyi. 5/5.",Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme eh işte.",Nötr,VALIDATE
+"Teslimat standarttı, paketleme standarttı.",Nötr,TEST
+Beklentimin üstünde ve fiyatı uygun. Tekrar alırım.,Olumlu,TRAIN
+"Teslimat standarttı, paketleme vasattı.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. İade ettim.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Paketleme düzgün, ürün gayet iyi. Memnun kaldım.",Olumlu,TRAIN
+"Teslimat beklendiği gibiydi, paketleme eh işte.",Nötr,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,VALIDATE
+"Ürün ne iyi ne kötü, işimi görüyor ama geliştirilebilir.",Nötr,TEST
+"Ürün ortalama, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+Malzeme kalitesi berbat. Pişman oldum.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün hasarlı geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Genel olarak orta seviye, çok emin değilim.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,VALIDATE
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TEST
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+"Genel olarak idare eder, kararsız kaldım.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Ürün yanlış ürün geldi, performansı kötü. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün arızalı çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. İade ettim.",Olumsuz,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TEST
+"Kargo zamanında geldi, ürün harika. Tekrar alırım.",Olumlu,TRAIN
+"Kargo geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün kalitesiz çıktı. İade ettim.",Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Zaman kaybı.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Hızlı çalışıyor ve fiyatı uygun. 5/5.,Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme standarttı.",Nötr,VALIDATE
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TEST
+Beklentimin üstünde ve fiyatı uygun. 5/5.,Olumlu,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Ürün anlatıldığı gibi değil, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+"Teslimat normaldi, paketleme standarttı.",Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+"Genel olarak idare eder, beklentim karışık.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün beklediğimden iyi. 5/5.",Olumlu,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Teslimat orta halliydi, paketleme standarttı.",Nötr,VALIDATE
+"Ürün fena değil, işimi görüyor ama daha iyisi olabilir.",Nötr,TEST
+"Genel olarak normal, beklentim karışık.",Nötr,TRAIN
+"Teslimat standarttı, paketleme vasattı.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Çok kötü deneyim.",Olumsuz,TRAIN
+Malzeme kalitesi kötü. Bir daha almam.,Olumsuz,TRAIN
+Malzeme kalitesi berbat. Bir daha almam.,Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, problem çıkardı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,TRAIN
+Beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,VALIDATE
+Beklediğim kadar çok hızlı değildi ama idare eder.,Nötr,TEST
+"Ürün fena değil, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,TRAIN
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Kargo biraz geç geldi, ürün harika. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. Çok memnun kaldım.",Olumlu,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün harika. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,VALIDATE
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TEST
+"Ürün uyumsuz çıktı, performansı kötü. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Paketleme çok iyi, ürün gayet iyi. Gayet başarılı.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TRAIN
+"Paketleme düzgün, ürün çok kaliteli. Gayet başarılı.",Olumlu,TRAIN
+"Genel olarak standart, kararsız kaldım.",Nötr,TRAIN
+"Ürün beklediğim gibi değil, problem çıkardı. Pişman oldum.",Olumsuz,TRAIN
+"Paketleme çok iyi, ürün beklediğimden iyi. Memnun kaldım.",Olumlu,TRAIN
+"Ürün yanlış ürün geldi, çalışmadı. Pişman oldum.",Olumsuz,TRAIN
+"Kargo geç geldi, ürün hasarlı geldi. Değişim istedim.",Olumsuz,VALIDATE
+"Kargo çok hızlı geldi, ürün eksik geldi. Hayal kırıklığı.",Olumsuz,TEST
+"Paketleme özenli, ürün çok kaliteli. Gayet başarılı.",Olumlu,TRAIN
+"Teslimat normaldi, paketleme standarttı.",Nötr,TRAIN
+Malzeme kalitesi berbat. Bir daha almam.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün kalitesiz çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Teslimat beklendiği gibiydi, paketleme standarttı.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün arızalı çıktı. İade ettim.",Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün arızalı çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün gayet iyi. 5/5.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme eh işte.",Nötr,VALIDATE
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TEST
+Hızlı çalışıyor ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Genel olarak orta seviye, çok emin değilim.",Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Pişman oldum.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Genel olarak standart, deneyim orta.",Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme vasattı.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,VALIDATE
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TEST
+"Kargo çok hızlı geldi, ürün arızalı çıktı. Hayal kırıklığı.",Olumsuz,TRAIN
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Malzeme kalitesi berbat. Bir daha almam.,Olumsuz,TRAIN
+"Paketleme sağlam, ürün harika. Gayet başarılı.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Hızlı çalışıyor ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Ürün idare eder, işimi görüyor ama geliştirilebilir.",Nötr,VALIDATE
+Performansı harika ve iyi bir tercih. Kesinlikle tavsiye ederim.,Olumlu,TEST
+"Paketleme düzgün, ürün gayet iyi. Sorunsuzdu.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün beklediğimden iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Ürün beklediğim gibi değil, çalışmadı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,TRAIN
+"Teslimat beklendiği gibiydi, paketleme vasattı.",Nötr,TRAIN
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+Beklentimin üstünde ve parasını hak ediyor. Tekrar alırım.,Olumlu,VALIDATE
+"Genel olarak idare eder, çok emin değilim.",Nötr,TEST
+"Ürün beklediğim gibi değil, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+Beklentimin üstünde ve iyi bir tercih. 5/5.,Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+Destek ekibi geç döndü. Zaman kaybı.,Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, performansı kötü. Bir daha almam.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün hasarlı geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Paketleme çok iyi, ürün çok kaliteli. Gayet başarılı.",Olumlu,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,VALIDATE
+Beklediğim kadar hızlı değildi ama iş görür.,Nötr,TEST
+"Kargo geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TRAIN
+"Teslimat normaldi, paketleme eh işte.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Ürün yanlış ürün geldi, performansı kötü. Tavsiye etmiyorum.",Olumsuz,TRAIN
+Stabil ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. Değişim istedim.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,VALIDATE
+"Genel olarak idare eder, çok emin değilim.",Nötr,TEST
+"Kargo geç geldi, ürün beklediğimden iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Genel olarak standart, kararsız kaldım.",Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün çok kaliteli. Tekrar alırım.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+Hızlı çalışıyor ve fiyat/performans mükemmel. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,VALIDATE
+"Kargo zamanında geldi, ürün arızalı çıktı. Hayal kırıklığı.",Olumsuz,TEST
+"Teslimat orta halliydi, paketleme standarttı.",Nötr,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün harika. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Destek ekibi çözüm sunmadı. Zaman kaybı.,Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Stabil ve parasını hak ediyor. 5/5.,Olumlu,VALIDATE
+"Paketleme çok iyi, ürün çok kaliteli. Gayet başarılı.",Olumlu,TEST
+Hızlı çalışıyor ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,TRAIN
+"Paketleme düzgün, ürün çok kaliteli. Beklentimi karşıladı.",Olumlu,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Teslimat normaldi, paketleme eh işte.",Nötr,VALIDATE
+"Paketleme özenli, ürün gayet iyi. Sorunsuzdu.",Olumlu,TEST
+"Kargo geç geldi, ürün arızalı çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Teslimat beklendiği gibiydi, paketleme normaldi.",Nötr,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Zaman kaybı.,Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün harika. Çok memnun kaldım.",Olumlu,TRAIN
+Hızlı çalışıyor ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+"Kargo zamanında geldi, ürün beklediğimden iyi. 5/5.",Olumlu,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,VALIDATE
+"Ürün yanlış ürün geldi, çalışmadı. Tavsiye etmiyorum.",Olumsuz,TEST
+"Kargo geç geldi, ürün harika. Tekrar alırım.",Olumlu,TRAIN
+"Paketleme düzgün, ürün çok kaliteli. Gayet başarılı.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme normaldi.",Nötr,TRAIN
+"Teslimat orta halliydi, paketleme standarttı.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Destek ekibi geç döndü. Çözülmedi.,Olumsuz,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+Beklentimin üstünde ve parasını hak ediyor. 5/5.,Olumlu,VALIDATE
+Performansı harika ve fiyatı uygun. Kesinlikle tavsiye ederim.,Olumlu,TEST
+"Kargo çok hızlı geldi, ürün gayet iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Teslimat beklendiği gibiydi, paketleme vasattı.",Nötr,TRAIN
+"Teslimat standarttı, paketleme vasattı.",Nötr,TRAIN
+Stabil ve fiyat/performans mükemmel. Çok memnun kaldım.,Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Çözülmedi.,Olumsuz,VALIDATE
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TEST
+"Paketleme sağlam, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün arızalı çıktı. İade ettim.",Olumsuz,TRAIN
+"Genel olarak orta seviye, kararsız kaldım.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Teslimat orta halliydi, paketleme standarttı.",Nötr,TRAIN
+Beklentimin üstünde ve iyi bir tercih. 5/5.,Olumlu,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,VALIDATE
+"Kargo çok hızlı geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TEST
+"Ürün uyumsuz çıktı, çalışmadı. Pişman oldum.",Olumsuz,TRAIN
+Malzeme kalitesi düşük. Pişman oldum.,Olumsuz,TRAIN
+Stabil ve fiyatı uygun. Tekrar alırım.,Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün beklediğimden iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Ürün yanlış ürün geldi, sürekli hata verdi. Pişman oldum.",Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün harika. Tekrar alırım.",Olumlu,TRAIN
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TRAIN
+"Genel olarak orta seviye, çok emin değilim.",Nötr,TRAIN
+"Paketleme özenli, ürün gayet iyi. Sorunsuzdu.",Olumlu,VALIDATE
+Beklentimin üstünde ve fiyat/performans mükemmel. Çok memnun kaldım.,Olumlu,TEST
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+Performansı harika ve fiyat/performans mükemmel. Çok memnun kaldım.,Olumlu,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TRAIN
+Beklentimin üstünde ve fiyatı uygun. 5/5.,Olumlu,TRAIN
+"Teslimat standarttı, paketleme normaldi.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,TRAIN
+"Paketleme sağlam, ürün harika. Gayet başarılı.",Olumlu,VALIDATE
+"Genel olarak standart, çok emin değilim.",Nötr,TEST
+"Genel olarak idare eder, kararsız kaldım.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün eksik geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Paketleme özenli, ürün harika. Sorunsuzdu.",Olumlu,TRAIN
+"Ürün beklediğim gibi değil, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün beklediğimden iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Paketleme düzgün, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TEST
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. 5/5.",Olumlu,TRAIN
+Hızlı çalışıyor ve fiyat/performans mükemmel. Çok memnun kaldım.,Olumlu,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün eksik geldi. İade ettim.",Olumsuz,TRAIN
+"Paketleme sağlam, ürün çok kaliteli. Memnun kaldım.",Olumlu,TRAIN
+"Ürün uyumsuz çıktı, sürekli hata verdi. Çok kötü deneyim.",Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. İade süreci çok zordu.",Olumsuz,VALIDATE
+Destek ekibi çözüm sunmadı. Memnun değilim.,Olumsuz,TEST
+"Paketleme çok iyi, ürün gayet iyi. Memnun kaldım.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme eh işte.",Nötr,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+Destek ekibi geç döndü. Çözülmedi.,Olumsuz,TRAIN
+"Ürün fena değil, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Hızlı çalışıyor ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+Performansı harika ve iyi bir tercih. Tekrar alırım.,Olumlu,VALIDATE
+"Teslimat normaldi, paketleme standarttı.",Nötr,TEST
+"Kargo geç geldi, ürün harika. 5/5.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama iş görür.,Nötr,TRAIN
+"Ürün anlatıldığı gibi değil, çalışmadı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Paketleme çok iyi, ürün beklediğimden iyi. Sorunsuzdu.",Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,VALIDATE
+Destek ekibi geç döndü. Şikayetçiyim.,Olumsuz,TEST
+"Kargo biraz geç geldi, ürün gayet iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Stabil ve fiyatı uygun. 5/5.,Olumlu,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,TRAIN
+"Genel olarak idare eder, beklentim karışık.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Hızlı çalışıyor ve fiyatı uygun. Tekrar alırım.,Olumlu,TRAIN
+Performansı harika ve fiyatı uygun. Kesinlikle tavsiye ederim.,Olumlu,VALIDATE
+Malzeme kalitesi vasat. Bir daha almam.,Olumsuz,TEST
+Destek ekibi çözüm sunmadı. Zaman kaybı.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, performansı kötü. Bir daha almam.",Olumsuz,TRAIN
+"Teslimat standarttı, paketleme normaldi.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün gayet iyi. 5/5.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme normaldi.",Nötr,VALIDATE
+"Ürün uyumsuz çıktı, problem çıkardı. Pişman oldum.",Olumsuz,TEST
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Genel olarak idare eder, kararsız kaldım.",Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,TRAIN
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün kalitesiz çıktı. İade ettim.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TRAIN
+"Ürün uyumsuz çıktı, çalışmadı. Bir daha almam.",Olumsuz,VALIDATE
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TEST
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+Stabil ve fiyat/performans mükemmel. 5/5.,Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Paketleme çok iyi, ürün beklediğimden iyi. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün eksik geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Genel olarak idare eder, deneyim orta.",Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme normaldi.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün harika. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TEST
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Paketleme özenli, ürün beklediğimden iyi. Sorunsuzdu.",Olumlu,TRAIN
+Destek ekibi geç döndü. Şikayetçiyim.,Olumsuz,TRAIN
+"Genel olarak normal, beklentim karışık.",Nötr,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,TRAIN
+"Ürün fena değil, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme eh işte.",Nötr,VALIDATE
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TEST
+"Kargo zamanında geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Paketleme sağlam, ürün beklediğimden iyi. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Paketleme düzgün, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Paketleme çok iyi, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün eksik geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün eksik geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+Performansı harika ve fiyatı uygun. 5/5.,Olumlu,VALIDATE
+"Teslimat orta halliydi, paketleme eh işte.",Nötr,TEST
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+Malzeme kalitesi kötü. Bir daha almam.,Olumsuz,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün harika. 5/5.",Olumlu,TRAIN
+"Genel olarak standart, çok emin değilim.",Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+"Teslimat standarttı, paketleme normaldi.",Nötr,VALIDATE
+Destek ekibi ulaşılmazdı. Şikayetçiyim.,Olumsuz,TEST
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün arızalı çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Genel olarak orta seviye, çok emin değilim.",Nötr,TRAIN
+"Paketleme çok iyi, ürün harika. Memnun kaldım.",Olumlu,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Teslimat orta halliydi, paketleme normaldi.",Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme vasattı.",Nötr,VALIDATE
+"Ürün beklediğim gibi değil, performansı kötü. Çok kötü deneyim.",Olumsuz,TEST
+"Kargo zamanında geldi, ürün harika. Tekrar alırım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Paketleme özenli, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+Performansı harika ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+"Kargo zamanında geldi, ürün eksik geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün gayet iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, çalışmadı. Pişman oldum.",Olumsuz,VALIDATE
+Malzeme kalitesi vasat. Tavsiye etmiyorum.,Olumsuz,TEST
+"Paketleme sağlam, ürün harika. Gayet başarılı.",Olumlu,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TRAIN
+"Paketleme çok iyi, ürün harika. Gayet başarılı.",Olumlu,TRAIN
+Destek ekibi çözüm sunmadı. Memnun değilim.,Olumsuz,TRAIN
+"Genel olarak standart, çok emin değilim.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Genel olarak idare eder, çok emin değilim.",Nötr,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama iş görür.,Nötr,VALIDATE
+Hızlı çalışıyor ve fiyat/performans mükemmel. Kesinlikle tavsiye ederim.,Olumlu,TEST
+Destek ekibi ulaşılmazdı. Zaman kaybı.,Olumsuz,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün harika. 5/5.",Olumlu,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+Hızlı çalışıyor ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+"Teslimat beklendiği gibiydi, paketleme normaldi.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Pişman oldum.",Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,VALIDATE
+Beklentimin üstünde ve fiyat/performans mükemmel. Çok memnun kaldım.,Olumlu,TEST
+Beklediğim kadar beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Ürün yanlış ürün geldi, performansı kötü. Bir daha almam.",Olumsuz,TRAIN
+Malzeme kalitesi vasat. Bir daha almam.,Olumsuz,TRAIN
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Çok kötü deneyim.",Olumsuz,TRAIN
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,VALIDATE
+"Ürün uyumsuz çıktı, problem çıkardı. Bir daha almam.",Olumsuz,TEST
+"Paketleme düzgün, ürün beklediğimden iyi. Gayet başarılı.",Olumlu,TRAIN
+"Paketleme çok iyi, ürün harika. Beklentimi karşıladı.",Olumlu,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+"Ürün beklediğim gibi değil, problem çıkardı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+Malzeme kalitesi berbat. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Kargo geç geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Ürün ortalama, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Teslimat normaldi, paketleme normaldi.",Nötr,VALIDATE
+Beklentimin üstünde ve fiyat/performans mükemmel. Çok memnun kaldım.,Olumlu,TEST
+Performansı harika ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+"Ürün idare eder, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Ürün beklediğim gibi değil, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+Malzeme kalitesi düşük. Çok kötü deneyim.,Olumsuz,TRAIN
+"Paketleme özenli, ürün harika. Sorunsuzdu.",Olumlu,VALIDATE
+Stabil ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TEST
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, sürekli hata verdi. Bir daha almam.",Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, performansı kötü. Pişman oldum.",Olumsuz,TRAIN
+Beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme vasattı.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün harika. Kesinlikle tavsiye ederim.",Olumlu,VALIDATE
+"Kargo biraz geç geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,TEST
+"Kargo geç geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Paketleme düzgün, ürün gayet iyi. Memnun kaldım.",Olumlu,TRAIN
+Hızlı çalışıyor ve fiyatı uygun. 5/5.,Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,TRAIN
+"Genel olarak idare eder, beklentim karışık.",Nötr,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Ürün yanlış ürün geldi, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Çok kötü deneyim.",Olumsuz,VALIDATE
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TEST
+Stabil ve iyi bir tercih. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+Malzeme kalitesi vasat. Bir daha almam.,Olumsuz,TRAIN
+Beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Hızlı çalışıyor ve fiyatı uygun. Tekrar alırım.,Olumlu,TRAIN
+Destek ekibi hiç yardımcı olmadı. Çözülmedi.,Olumsuz,TRAIN
+"Teslimat beklendiği gibiydi, paketleme normaldi.",Nötr,VALIDATE
+"Kargo geç geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TEST
+"Ürün anlatıldığı gibi değil, performansı kötü. Pişman oldum.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. 5/5.",Olumlu,TRAIN
+"Ürün beklediğim gibi değil, sürekli hata verdi. Pişman oldum.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Paketleme özenli, ürün gayet iyi. Gayet başarılı.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+Malzeme kalitesi düşük. Pişman oldum.,Olumsuz,TRAIN
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,VALIDATE
+"Teslimat orta halliydi, paketleme normaldi.",Nötr,TEST
+"Paketleme düzgün, ürün beklediğimden iyi. Gayet başarılı.",Olumlu,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün kalitesiz çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Paketleme özenli, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Genel olarak orta seviye, kararsız kaldım.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Paketleme özenli, ürün çok kaliteli. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün hasarlı geldi. Hayal kırıklığı.",Olumsuz,VALIDATE
+"Ürün uyumsuz çıktı, performansı kötü. Tavsiye etmiyorum.",Olumsuz,TEST
+Destek ekibi hiç yardımcı olmadı. Zaman kaybı.,Olumsuz,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,TRAIN
+Malzeme kalitesi düşük. Çok kötü deneyim.,Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün çok kaliteli. Tekrar alırım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Beklentimin üstünde ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+"Kargo geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TEST
+"Teslimat normaldi, paketleme standarttı.",Nötr,TRAIN
+"Genel olarak idare eder, beklentim karışık.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün eksik geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün harika. 5/5.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün harika. Çok memnun kaldım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Teslimat normaldi, paketleme vasattı.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,VALIDATE
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TEST
+Stabil ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Paketleme düzgün, ürün beklediğimden iyi. Memnun kaldım.",Olumlu,TRAIN
+Beklentimin üstünde ve fiyatı uygun. Tekrar alırım.,Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Genel olarak standart, kararsız kaldım.",Nötr,TRAIN
+Beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+Malzeme kalitesi düşük. Pişman oldum.,Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, çalışmadı. Tavsiye etmiyorum.",Olumsuz,VALIDATE
+"Ürün ortalama, işimi görüyor ama daha iyisi olabilir.",Nötr,TEST
+"Ürün beklediğim gibi değil, problem çıkardı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Ürün beklediğim gibi değil, sürekli hata verdi. Pişman oldum.",Olumsuz,TRAIN
+Malzeme kalitesi berbat. Pişman oldum.,Olumsuz,TRAIN
+"Teslimat beklendiği gibiydi, paketleme eh işte.",Nötr,TRAIN
+"Ürün yanlış ürün geldi, çalışmadı. Pişman oldum.",Olumsuz,TRAIN
+"Teslimat standarttı, paketleme normaldi.",Nötr,TRAIN
+"Teslimat normaldi, paketleme standarttı.",Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,VALIDATE
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TEST
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+Destek ekibi hiç yardımcı olmadı. Çözülmedi.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün kalitesiz çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Ürün yanlış ürün geldi, performansı kötü. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Paketleme sağlam, ürün çok kaliteli. Gayet başarılı.",Olumlu,TRAIN
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+"Kargo geç geldi, ürün kalitesiz çıktı. İade ettim.",Olumsuz,VALIDATE
+"Ürün ortalama, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TEST
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TRAIN
+"Genel olarak idare eder, kararsız kaldım.",Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Destek ekibi çözüm sunmadı. Zaman kaybı.,Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, problem çıkardı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, problem çıkardı. Pişman oldum.",Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün hasarlı geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+Stabil ve parasını hak ediyor. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Teslimat normaldi, paketleme standarttı.",Nötr,VALIDATE
+"Genel olarak normal, çok emin değilim.",Nötr,TEST
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme normaldi.",Nötr,TRAIN
+"Ürün beklediğim gibi değil, performansı kötü. Pişman oldum.",Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Memnun değilim.,Olumsuz,TRAIN
+"Teslimat orta halliydi, paketleme eh işte.",Nötr,TRAIN
+"Ürün yanlış ürün geldi, problem çıkardı. Pişman oldum.",Olumsuz,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,TRAIN
+"Paketleme sağlam, ürün çok kaliteli. Memnun kaldım.",Olumlu,VALIDATE
+"Paketleme düzgün, ürün beklediğimden iyi. Memnun kaldım.",Olumlu,TEST
+"Paketleme çok iyi, ürün gayet iyi. Sorunsuzdu.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Bir daha almam.",Olumsuz,TRAIN
+"Paketleme çok iyi, ürün harika. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,TRAIN
+"Kargo biraz geç geldi, ürün arızalı çıktı. Hayal kırıklığı.",Olumsuz,VALIDATE
+"Ürün anlatıldığı gibi değil, performansı kötü. Pişman oldum.",Olumsuz,TEST
+Malzeme kalitesi berbat. Bir daha almam.,Olumsuz,TRAIN
+Malzeme kalitesi berbat. Pişman oldum.,Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Paketleme sağlam, ürün çok kaliteli. Memnun kaldım.",Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün hasarlı geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+Malzeme kalitesi vasat. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Paketleme özenli, ürün gayet iyi. Gayet başarılı.",Olumlu,VALIDATE
+Destek ekibi geç döndü. Çözülmedi.,Olumsuz,TEST
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Paketleme düzgün, ürün harika. Memnun kaldım.",Olumlu,TRAIN
+Destek ekibi çözüm sunmadı. Zaman kaybı.,Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+Performansı harika ve iyi bir tercih. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+Stabil ve iyi bir tercih. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Teslimat normaldi, paketleme eh işte.",Nötr,VALIDATE
+"Ürün yanlış ürün geldi, çalışmadı. Pişman oldum.",Olumsuz,TEST
+Malzeme kalitesi düşük. Pişman oldum.,Olumsuz,TRAIN
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Genel olarak normal, çok emin değilim.",Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Teslimat normaldi, paketleme vasattı.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,VALIDATE
+"Ürün ne iyi ne kötü, işimi görüyor ama geliştirilebilir.",Nötr,TEST
+"Ürün fena değil, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Destek ekibi çözüm sunmadı. Memnun değilim.,Olumsuz,TRAIN
+Performansı harika ve iyi bir tercih. Çok memnun kaldım.,Olumlu,TRAIN
+Beklentimin üstünde ve fiyatı uygun. Çok memnun kaldım.,Olumlu,TRAIN
+"Paketleme düzgün, ürün beklediğimden iyi. Memnun kaldım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün hasarlı geldi. İade ettim.",Olumsuz,TRAIN
+"Teslimat standarttı, paketleme vasattı.",Nötr,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama idare eder.,Nötr,VALIDATE
+"Ürün yanlış ürün geldi, problem çıkardı. Bir daha almam.",Olumsuz,TEST
+"Kargo çok hızlı geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+"Kargo geç geldi, ürün eksik geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+"Kargo geç geldi, ürün harika. Çok memnun kaldım.",Olumlu,VALIDATE
+"Teslimat orta halliydi, paketleme standarttı.",Nötr,TEST
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. Değişim istedim.",Olumsuz,TRAIN
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün kalitesiz çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Paketleme sağlam, ürün gayet iyi. Sorunsuzdu.",Olumlu,TRAIN
+Performansı harika ve parasını hak ediyor. Tekrar alırım.,Olumlu,TRAIN
+"Ürün yanlış ürün geldi, problem çıkardı. Bir daha almam.",Olumsuz,VALIDATE
+"Kargo çok hızlı geldi, ürün arızalı çıktı. İade süreci çok zordu.",Olumsuz,TEST
+"Kargo biraz geç geldi, ürün arızalı çıktı. İade ettim.",Olumsuz,TRAIN
+"Paketleme çok iyi, ürün çok kaliteli. Memnun kaldım.",Olumlu,TRAIN
+Destek ekibi ulaşılmazdı. Zaman kaybı.,Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Stabil ve iyi bir tercih. 5/5.,Olumlu,TRAIN
+Performansı harika ve iyi bir tercih. Kesinlikle tavsiye ederim.,Olumlu,VALIDATE
+Beklentimin üstünde ve parasını hak ediyor. 5/5.,Olumlu,TEST
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,TRAIN
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,TRAIN
+"Genel olarak idare eder, beklentim karışık.",Nötr,TRAIN
+Beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+Beklediğim kadar çok hızlı değildi ama iş görür.,Nötr,TRAIN
+"Genel olarak idare eder, beklentim karışık.",Nötr,TRAIN
+"Paketleme sağlam, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,VALIDATE
+"Paketleme sağlam, ürün çok kaliteli. Beklentimi karşıladı.",Olumlu,TEST
+Stabil ve fiyatı uygun. Çok memnun kaldım.,Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme eh işte.",Nötr,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,TRAIN
+Malzeme kalitesi berbat. Pişman oldum.,Olumsuz,TRAIN
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+Beklentimin üstünde ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+Beklentimin üstünde ve parasını hak ediyor. 5/5.,Olumlu,VALIDATE
+Beklediğim kadar ortalama hızdaydı ama iş görür.,Nötr,TEST
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Ürün yanlış ürün geldi, performansı kötü. Pişman oldum.",Olumsuz,TRAIN
+"Genel olarak idare eder, çok emin değilim.",Nötr,TRAIN
+"Genel olarak standart, deneyim orta.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün arızalı çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+Beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Paketleme çok iyi, ürün harika. Gayet başarılı.",Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,VALIDATE
+"Kargo biraz geç geldi, ürün çok kaliteli. 5/5.",Olumlu,TEST
+"Kargo geç geldi, ürün gayet iyi. 5/5.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. İade ettim.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, performansı kötü. Pişman oldum.",Olumsuz,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Ürün beklediğim gibi değil, çalışmadı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Paketleme çok iyi, ürün harika. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama idare eder.,Nötr,VALIDATE
+Malzeme kalitesi berbat. Bir daha almam.,Olumsuz,TEST
+Beklediğim kadar çok hızlı değildi ama iş görür.,Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün beklediğimden iyi. 5/5.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+Beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Paketleme özenli, ürün beklediğimden iyi. Gayet başarılı.",Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,TRAIN
+Hızlı çalışıyor ve iyi bir tercih. Tekrar alırım.,Olumlu,VALIDATE
+"Genel olarak idare eder, kararsız kaldım.",Nötr,TEST
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+"Teslimat orta halliydi, paketleme normaldi.",Nötr,TRAIN
+Destek ekibi çözüm sunmadı. Zaman kaybı.,Olumsuz,TRAIN
+Beklentimin üstünde ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+Malzeme kalitesi berbat. Pişman oldum.,Olumsuz,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklentimin üstünde ve fiyatı uygun. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,VALIDATE
+"Genel olarak orta seviye, deneyim orta.",Nötr,TEST
+"Kargo geç geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+Performansı harika ve fiyat/performans mükemmel. Çok memnun kaldım.,Olumlu,TRAIN
+"Teslimat normaldi, paketleme vasattı.",Nötr,TRAIN
+Destek ekibi ulaşılmazdı. Memnun değilim.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün kalitesiz çıktı. Hayal kırıklığı.",Olumsuz,TRAIN
+"Teslimat normaldi, paketleme vasattı.",Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,VALIDATE
+"Teslimat standarttı, paketleme eh işte.",Nötr,TEST
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TRAIN
+Performansı harika ve iyi bir tercih. Çok memnun kaldım.,Olumlu,TRAIN
+Malzeme kalitesi düşük. Çok kötü deneyim.,Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,TRAIN
+"Paketleme sağlam, ürün beklediğimden iyi. Gayet başarılı.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+"Teslimat standarttı, paketleme vasattı.",Nötr,TRAIN
+Beklentimin üstünde ve fiyat/performans mükemmel. 5/5.,Olumlu,TRAIN
+"Genel olarak normal, çok emin değilim.",Nötr,VALIDATE
+"Teslimat beklendiği gibiydi, paketleme vasattı.",Nötr,TEST
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. Hayal kırıklığı.",Olumsuz,TRAIN
+Hızlı çalışıyor ve fiyat/performans mükemmel. 5/5.,Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Beklentimin üstünde ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,VALIDATE
+Destek ekibi geç döndü. Şikayetçiyim.,Olumsuz,TEST
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+Hızlı çalışıyor ve fiyatı uygun. 5/5.,Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama iş görür.,Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TRAIN
+"Paketleme düzgün, ürün gayet iyi. Gayet başarılı.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün eksik geldi. İade ettim.",Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+"Paketleme özenli, ürün beklediğimden iyi. Gayet başarılı.",Olumlu,VALIDATE
+"Paketleme özenli, ürün çok kaliteli. Beklentimi karşıladı.",Olumlu,TEST
+"Paketleme sağlam, ürün çok kaliteli. Memnun kaldım.",Olumlu,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Genel olarak orta seviye, çok emin değilim.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TRAIN
+"Paketleme düzgün, ürün harika. Memnun kaldım.",Olumlu,TRAIN
+Malzeme kalitesi vasat. Bir daha almam.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,VALIDATE
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TEST
+Hızlı çalışıyor ve fiyat/performans mükemmel. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme standarttı.",Nötr,TRAIN
+Beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+"Kargo zamanında geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün çok kaliteli. 5/5.",Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Ürün yanlış ürün geldi, çalışmadı. Çok kötü deneyim.",Olumsuz,VALIDATE
+"Kargo zamanında geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,TEST
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,TRAIN
+"Ürün uyumsuz çıktı, sürekli hata verdi. Bir daha almam.",Olumsuz,TRAIN
+"Ürün ortalama, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. Değişim istedim.",Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Çok kötü deneyim.",Olumsuz,VALIDATE
+"Genel olarak idare eder, kararsız kaldım.",Nötr,TEST
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TRAIN
+Destek ekibi geç döndü. Çözülmedi.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. 5/5.",Olumlu,VALIDATE
+Stabil ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TEST
+"Paketleme düzgün, ürün çok kaliteli. Beklentimi karşıladı.",Olumlu,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Genel olarak normal, beklentim karışık.",Nötr,TRAIN
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Ürün anlatıldığı gibi değil, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+"Teslimat normaldi, paketleme eh işte.",Nötr,TRAIN
+"Kargo geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TEST
+"Ürün beklediğim gibi değil, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+"Genel olarak standart, çok emin değilim.",Nötr,TRAIN
+Destek ekibi geç döndü. Şikayetçiyim.,Olumsuz,TRAIN
+"Teslimat normaldi, paketleme eh işte.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Ürün beklediğim gibi değil, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, performansı kötü. Bir daha almam.",Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Şikayetçiyim.,Olumsuz,TRAIN
+Beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,VALIDATE
+"Paketleme düzgün, ürün gayet iyi. Gayet başarılı.",Olumlu,TEST
+"Ürün beklediğim gibi değil, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Paketleme özenli, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. Tekrar alırım.",Olumlu,TRAIN
+"Kargo geç geldi, ürün kalitesiz çıktı. İade ettim.",Olumsuz,TRAIN
+"Paketleme sağlam, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Hızlı çalışıyor ve iyi bir tercih. Çok memnun kaldım.,Olumlu,TRAIN
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Genel olarak idare eder, beklentim karışık.",Nötr,VALIDATE
+Stabil ve fiyatı uygun. Çok memnun kaldım.,Olumlu,TEST
+"Ürün yanlış ürün geldi, çalışmadı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Teslimat normaldi, paketleme eh işte.",Nötr,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, sürekli hata verdi. Pişman oldum.",Olumsuz,TRAIN
+"Ürün yanlış ürün geldi, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+Stabil ve fiyatı uygun. Tekrar alırım.,Olumlu,VALIDATE
+"Kargo geç geldi, ürün beklediğimden iyi. 5/5.",Olumlu,TEST
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Paketleme düzgün, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Paketleme sağlam, ürün çok kaliteli. Gayet başarılı.",Olumlu,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme standarttı.",Nötr,VALIDATE
+"Ürün anlatıldığı gibi değil, problem çıkardı. Pişman oldum.",Olumsuz,TEST
+"Kargo zamanında geldi, ürün beklediğimden iyi. 5/5.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün harika. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Pişman oldum.",Olumsuz,TRAIN
+Malzeme kalitesi berbat. Pişman oldum.,Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, problem çıkardı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,TRAIN
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. Tekrar alırım.",Olumlu,VALIDATE
+"Genel olarak standart, beklentim karışık.",Nötr,TEST
+"Teslimat beklendiği gibiydi, paketleme standarttı.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Teslimat normaldi, paketleme normaldi.",Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün eksik geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+Beklentimin üstünde ve iyi bir tercih. 5/5.,Olumlu,TRAIN
+"Genel olarak normal, kararsız kaldım.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün çok kaliteli. Çok memnun kaldım.",Olumlu,VALIDATE
+"Kargo biraz geç geldi, ürün hasarlı geldi. Değişim istedim.",Olumsuz,TEST
+"Ürün idare eder, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Destek ekibi ulaşılmazdı. Zaman kaybı.,Olumsuz,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+Performansı harika ve parasını hak ediyor. Tekrar alırım.,Olumlu,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. 5/5.",Olumlu,TRAIN
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün çok kaliteli. Çok memnun kaldım.",Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+"Teslimat standarttı, paketleme vasattı.",Nötr,VALIDATE
+"Teslimat standarttı, paketleme standarttı.",Nötr,TEST
+"Kargo zamanında geldi, ürün gayet iyi. 5/5.",Olumlu,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Paketleme özenli, ürün çok kaliteli. Gayet başarılı.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün harika. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Paketleme çok iyi, ürün beklediğimden iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+Hızlı çalışıyor ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,TRAIN
+"Paketleme çok iyi, ürün gayet iyi. Memnun kaldım.",Olumlu,VALIDATE
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,TEST
+"Kargo çok hızlı geldi, ürün arızalı çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. 5/5.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün harika. Tekrar alırım.",Olumlu,TRAIN
+"Ürün yanlış ürün geldi, problem çıkardı. Pişman oldum.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,VALIDATE
+"Kargo çok hızlı geldi, ürün arızalı çıktı. Hayal kırıklığı.",Olumsuz,TEST
+Beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+"Teslimat standarttı, paketleme eh işte.",Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün kalitesiz çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Genel olarak normal, çok emin değilim.",Nötr,TRAIN
+Performansı harika ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TEST
+"Kargo zamanında geldi, ürün harika. Çok memnun kaldım.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün harika. Çok memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Genel olarak normal, çok emin değilim.",Nötr,TRAIN
+Destek ekibi çözüm sunmadı. Zaman kaybı.,Olumsuz,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Teslimat normaldi, paketleme vasattı.",Nötr,TRAIN
+Malzeme kalitesi düşük. Pişman oldum.,Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Memnun değilim.,Olumsuz,VALIDATE
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TEST
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Kargo zamanında geldi, ürün harika. 5/5.",Olumlu,TRAIN
+"Kargo geç geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Hızlı çalışıyor ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+"Kargo geç geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Paketleme sağlam, ürün harika. Beklentimi karşıladı.",Olumlu,VALIDATE
+Beklediğim kadar beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TEST
+"Kargo çok hızlı geldi, ürün harika. Tekrar alırım.",Olumlu,TRAIN
+"Paketleme düzgün, ürün çok kaliteli. Sorunsuzdu.",Olumlu,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Ürün yanlış ürün geldi, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün harika. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Genel olarak orta seviye, çok emin değilim.",Nötr,VALIDATE
+"Ürün uyumsuz çıktı, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,TEST
+Beklentimin üstünde ve iyi bir tercih. 5/5.,Olumlu,TRAIN
+Beklentimin üstünde ve fiyat/performans mükemmel. 5/5.,Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün çok kaliteli. 5/5.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün eksik geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,VALIDATE
+"Ürün fena değil, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TEST
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Genel olarak idare eder, deneyim orta.",Nötr,TRAIN
+Malzeme kalitesi vasat. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+Hızlı çalışıyor ve parasını hak ediyor. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Kargo zamanında geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+"Paketleme çok iyi, ürün çok kaliteli. Memnun kaldım.",Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,VALIDATE
+"Ürün beklediğim gibi değil, problem çıkardı. Bir daha almam.",Olumsuz,TEST
+Stabil ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Destek ekibi ulaşılmazdı. Memnun değilim.,Olumsuz,TRAIN
+Hızlı çalışıyor ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme eh işte.",Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Performansı harika ve fiyat/performans mükemmel. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Ürün beklediğim gibi değil, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,VALIDATE
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TEST
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+"Genel olarak idare eder, deneyim orta.",Nötr,TRAIN
+Malzeme kalitesi berbat. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+"Genel olarak idare eder, beklentim karışık.",Nötr,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,VALIDATE
+Hızlı çalışıyor ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TEST
+Performansı harika ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+"Ürün beklediğim gibi değil, performansı kötü. Bir daha almam.",Olumsuz,TRAIN
+Beklediğim kadar çok hızlı değildi ama iş görür.,Nötr,TRAIN
+"Kargo zamanında geldi, ürün eksik geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Genel olarak normal, kararsız kaldım.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,VALIDATE
+"Teslimat orta halliydi, paketleme standarttı.",Nötr,TEST
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,TRAIN
+Beklediğim kadar çok hızlı değildi ama iş görür.,Nötr,TRAIN
+Beklentimin üstünde ve fiyatı uygun. 5/5.,Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün harika. 5/5.",Olumlu,TRAIN
+Destek ekibi ulaşılmazdı. Şikayetçiyim.,Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün harika. Çok memnun kaldım.",Olumlu,TRAIN
+"Kargo geç geldi, ürün gayet iyi. 5/5.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,VALIDATE
+Performansı harika ve fiyat/performans mükemmel. Çok memnun kaldım.,Olumlu,TEST
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Paketleme düzgün, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklentimin üstünde ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün eksik geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün harika. Tekrar alırım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,VALIDATE
+"Kargo biraz geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TEST
+"Ürün anlatıldığı gibi değil, problem çıkardı. Çok kötü deneyim.",Olumsuz,TRAIN
+Performansı harika ve fiyat/performans mükemmel. Çok memnun kaldım.,Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Ürün yanlış ürün geldi, problem çıkardı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, sürekli hata verdi. Bir daha almam.",Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,TRAIN
+"Paketleme düzgün, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TEST
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Destek ekibi geç döndü. Zaman kaybı.,Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün eksik geldi. İade ettim.",Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, çalışmadı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Teslimat standarttı, paketleme normaldi.",Nötr,TRAIN
+Malzeme kalitesi berbat. Bir daha almam.,Olumsuz,VALIDATE
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyisi olabilir.",Nötr,TEST
+Beklediğim kadar çok hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün arızalı çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Genel olarak normal, çok emin değilim.",Nötr,TRAIN
+"Paketleme özenli, ürün harika. Sorunsuzdu.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+Malzeme kalitesi düşük. Pişman oldum.,Olumsuz,TRAIN
+"Teslimat normaldi, paketleme vasattı.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,VALIDATE
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TEST
+"Ürün yanlış ürün geldi, performansı kötü. Pişman oldum.",Olumsuz,TRAIN
+Performansı harika ve fiyatı uygun. 5/5.,Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, performansı kötü. Çok kötü deneyim.",Olumsuz,TRAIN
+Performansı harika ve iyi bir tercih. Çok memnun kaldım.,Olumlu,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+"Ürün yanlış ürün geldi, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,TRAIN
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,VALIDATE
+"Ürün yanlış ürün geldi, çalışmadı. Çok kötü deneyim.",Olumsuz,TEST
+"Genel olarak normal, çok emin değilim.",Nötr,TRAIN
+Malzeme kalitesi düşük. Pişman oldum.,Olumsuz,TRAIN
+"Paketleme sağlam, ürün gayet iyi. Gayet başarılı.",Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama kullanılabilir.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Paketleme düzgün, ürün beklediğimden iyi. Sorunsuzdu.",Olumlu,TRAIN
+Malzeme kalitesi vasat. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Pişman oldum.",Olumsuz,VALIDATE
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,TEST
+"Kargo geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+"Teslimat standarttı, paketleme normaldi.",Nötr,TRAIN
+"Genel olarak standart, kararsız kaldım.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün hasarlı geldi. İade ettim.",Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+Beklediğim kadar çok hızlı değildi ama iş görür.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,VALIDATE
+"Teslimat beklendiği gibiydi, paketleme eh işte.",Nötr,TEST
+"Genel olarak idare eder, çok emin değilim.",Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Beklediğim kadar çok hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+Beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,TRAIN
+"Genel olarak orta seviye, çok emin değilim.",Nötr,TRAIN
+Malzeme kalitesi berbat. Pişman oldum.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün harika. Çok memnun kaldım.",Olumlu,VALIDATE
+Beklediğim kadar beklediğim kadar hızlı değildi ama idare eder.,Nötr,TEST
+"Genel olarak idare eder, beklentim karışık.",Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme standarttı.",Nötr,TRAIN
+Performansı harika ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Beklentimin üstünde ve iyi bir tercih. 5/5.,Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Paketleme özenli, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Teslimat beklendiği gibiydi, paketleme eh işte.",Nötr,VALIDATE
+"Teslimat orta halliydi, paketleme normaldi.",Nötr,TEST
+"Teslimat standarttı, paketleme eh işte.",Nötr,TRAIN
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Pişman oldum.,Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, problem çıkardı. Pişman oldum.",Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, çalışmadı. Pişman oldum.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,VALIDATE
+"Ürün fena değil, işimi görüyor ama daha iyi beklerdim.",Nötr,TEST
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,TRAIN
+"Ürün anlatıldığı gibi değil, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün kalitesiz çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,TRAIN
+Beklentimin üstünde ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+"Teslimat orta halliydi, paketleme vasattı.",Nötr,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TEST
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Stabil ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+"Kargo zamanında geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Malzeme kalitesi düşük. Bir daha almam.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. İade ettim.",Olumsuz,VALIDATE
+"Paketleme düzgün, ürün beklediğimden iyi. Memnun kaldım.",Olumlu,TEST
+"Ürün beklediğim gibi değil, problem çıkardı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Paketleme düzgün, ürün beklediğimden iyi. Sorunsuzdu.",Olumlu,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün arızalı çıktı. Hayal kırıklığı.",Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+Malzeme kalitesi vasat. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TRAIN
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,VALIDATE
+"Kargo çok hızlı geldi, ürün kalitesiz çıktı. Hayal kırıklığı.",Olumsuz,TEST
+"Ürün uyumsuz çıktı, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Ürün yanlış ürün geldi, çalışmadı. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Ürün beklediğim gibi değil, problem çıkardı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+"Ürün yanlış ürün geldi, performansı kötü. Pişman oldum.",Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyisi olabilir.",Nötr,VALIDATE
+"Kargo biraz geç geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,TEST
+Malzeme kalitesi düşük. Çok kötü deneyim.,Olumsuz,TRAIN
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+Stabil ve iyi bir tercih. 5/5.,Olumlu,TRAIN
+Performansı harika ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TRAIN
+Destek ekibi ulaşılmazdı. Zaman kaybı.,Olumsuz,TRAIN
+Beklediğim kadar çok hızlı değildi ama idare eder.,Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Genel olarak standart, kararsız kaldım.",Nötr,VALIDATE
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Çok kötü deneyim.",Olumsuz,TEST
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Paketleme düzgün, ürün harika. Memnun kaldım.",Olumlu,TRAIN
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TRAIN
+Stabil ve fiyatı uygun. Çok memnun kaldım.,Olumlu,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. 5/5.",Olumlu,TRAIN
+Performansı harika ve fiyatı uygun. Çok memnun kaldım.,Olumlu,TRAIN
+"Genel olarak idare eder, çok emin değilim.",Nötr,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TEST
+Destek ekibi ulaşılmazdı. Memnun değilim.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Kargo geç geldi, ürün gayet iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Paketleme sağlam, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, performansı kötü. Pişman oldum.",Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Genel olarak orta seviye, kararsız kaldım.",Nötr,TRAIN
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,VALIDATE
+"Teslimat standarttı, paketleme normaldi.",Nötr,TEST
+"Ürün yanlış ürün geldi, sürekli hata verdi. Bir daha almam.",Olumsuz,TRAIN
+Beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, çalışmadı. Pişman oldum.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Kargo biraz geç geldi, ürün kalitesiz çıktı. Hayal kırıklığı.",Olumsuz,VALIDATE
+"Teslimat orta halliydi, paketleme standarttı.",Nötr,TEST
+"Teslimat beklendiği gibiydi, paketleme normaldi.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün arızalı çıktı. Değişim istedim.",Olumsuz,TRAIN
+Beklediğim kadar çok hızlı değildi ama idare eder.,Nötr,TRAIN
+"Kargo geç geldi, ürün çok kaliteli. Çok memnun kaldım.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Pişman oldum.",Olumsuz,VALIDATE
+Malzeme kalitesi vasat. Çok kötü deneyim.,Olumsuz,TEST
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün gayet iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. 5/5.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün gayet iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+"Paketleme çok iyi, ürün harika. Gayet başarılı.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme normaldi.",Nötr,TRAIN
+Destek ekibi ulaşılmazdı. Memnun değilim.,Olumsuz,VALIDATE
+"Teslimat orta halliydi, paketleme normaldi.",Nötr,TEST
+"Ürün yanlış ürün geldi, problem çıkardı. Çok kötü deneyim.",Olumsuz,TRAIN
+Malzeme kalitesi berbat. Pişman oldum.,Olumsuz,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,TRAIN
+Performansı harika ve iyi bir tercih. Çok memnun kaldım.,Olumlu,TRAIN
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,TRAIN
+"Ürün ortalama, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Paketleme özenli, ürün gayet iyi. Sorunsuzdu.",Olumlu,TRAIN
+Malzeme kalitesi vasat. Pişman oldum.,Olumsuz,VALIDATE
+"Ürün beklediğim gibi değil, sürekli hata verdi. Tavsiye etmiyorum.",Olumsuz,TEST
+"Ürün yanlış ürün geldi, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Paketleme özenli, ürün gayet iyi. Gayet başarılı.",Olumlu,TRAIN
+"Ürün uyumsuz çıktı, çalışmadı. Bir daha almam.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün arızalı çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Çok kötü deneyim.",Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,VALIDATE
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TEST
+Destek ekibi geç döndü. Çözülmedi.,Olumsuz,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Performansı harika ve fiyatı uygun. 5/5.,Olumlu,TRAIN
+Hızlı çalışıyor ve fiyat/performans mükemmel. Tekrar alırım.,Olumlu,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme vasattı.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün hasarlı geldi. Değişim istedim.",Olumsuz,VALIDATE
+Destek ekibi geç döndü. Zaman kaybı.,Olumsuz,TEST
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+"Kargo geç geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün harika. Çok memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama iş görür.,Nötr,TRAIN
+"Teslimat normaldi, paketleme vasattı.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün arızalı çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Paketleme sağlam, ürün beklediğimden iyi. Sorunsuzdu.",Olumlu,VALIDATE
+"Teslimat orta halliydi, paketleme eh işte.",Nötr,TEST
+"Kargo zamanında geldi, ürün hasarlı geldi. İade ettim.",Olumsuz,TRAIN
+"Kargo geç geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Malzeme kalitesi kötü. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Teslimat standarttı, paketleme vasattı.",Nötr,TRAIN
+"Ürün yanlış ürün geldi, problem çıkardı. Pişman oldum.",Olumsuz,TRAIN
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,VALIDATE
+"Ürün anlatıldığı gibi değil, problem çıkardı. Pişman oldum.",Olumsuz,TEST
+Hızlı çalışıyor ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama iş görür.,Nötr,TRAIN
+"Kargo biraz geç geldi, ürün çok kaliteli. Çok memnun kaldım.",Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+Malzeme kalitesi vasat. Tavsiye etmiyorum.,Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,TRAIN
+Performansı harika ve fiyat/performans mükemmel. Çok memnun kaldım.,Olumlu,TRAIN
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,VALIDATE
+Performansı harika ve fiyatı uygun. Tekrar alırım.,Olumlu,TEST
+"Genel olarak orta seviye, beklentim karışık.",Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+"Genel olarak idare eder, deneyim orta.",Nötr,TRAIN
+Beklediğim kadar çok hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+Hızlı çalışıyor ve fiyatı uygun. Çok memnun kaldım.,Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Çok kötü deneyim.",Olumsuz,TRAIN
+"Paketleme sağlam, ürün beklediğimden iyi. Gayet başarılı.",Olumlu,TRAIN
+"Genel olarak normal, kararsız kaldım.",Nötr,VALIDATE
+"Paketleme özenli, ürün harika. Memnun kaldım.",Olumlu,TEST
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Bir daha almam.",Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Ürün ortalama, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Beklediğim kadar çok hızlı değildi ama idare eder.,Nötr,TRAIN
+"Teslimat beklendiği gibiydi, paketleme normaldi.",Nötr,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,TRAIN
+"Kargo zamanında geldi, ürün çok kaliteli. Tekrar alırım.",Olumlu,VALIDATE
+Destek ekibi geç döndü. Şikayetçiyim.,Olumsuz,TEST
+Stabil ve fiyat/performans mükemmel. 5/5.,Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Ürün idare eder, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. Tekrar alırım.",Olumlu,TRAIN
+Destek ekibi ulaşılmazdı. Şikayetçiyim.,Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,VALIDATE
+"Paketleme düzgün, ürün gayet iyi. Memnun kaldım.",Olumlu,TEST
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+Beklediğim kadar çok hızlı değildi ama iş görür.,Nötr,TRAIN
+"Kargo biraz geç geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün çok kaliteli. 5/5.",Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama iş görür.,Nötr,VALIDATE
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TEST
+"Ürün ortalama, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Kargo biraz geç geldi, ürün eksik geldi. İade ettim.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün harika. 5/5.",Olumlu,TRAIN
+"Teslimat standarttı, paketleme standarttı.",Nötr,TRAIN
+Malzeme kalitesi berbat. Pişman oldum.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+Hızlı çalışıyor ve parasını hak ediyor. 5/5.,Olumlu,TRAIN
+Destek ekibi geç döndü. Çözülmedi.,Olumsuz,TRAIN
+Destek ekibi hiç yardımcı olmadı. Çözülmedi.,Olumsuz,VALIDATE
+"Ürün yanlış ürün geldi, sürekli hata verdi. Bir daha almam.",Olumsuz,TEST
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Tavsiye etmiyorum.",Olumsuz,TRAIN
+"Teslimat normaldi, paketleme eh işte.",Nötr,TRAIN
+"Kargo geç geldi, ürün beklediğimden iyi. 5/5.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+"Teslimat orta halliydi, paketleme eh işte.",Nötr,TRAIN
+Stabil ve fiyat/performans mükemmel. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+Stabil ve iyi bir tercih. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Kargo zamanında geldi, ürün harika. Tekrar alırım.",Olumlu,VALIDATE
+Malzeme kalitesi berbat. Tavsiye etmiyorum.,Olumsuz,TEST
+Destek ekibi ulaşılmazdı. Şikayetçiyim.,Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+Malzeme kalitesi düşük. Pişman oldum.,Olumsuz,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama iş görür.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TRAIN
+"Ürün uyumsuz çıktı, çalışmadı. Pişman oldum.",Olumsuz,TRAIN
+Destek ekibi ulaşılmazdı. Şikayetçiyim.,Olumsuz,TRAIN
+"Genel olarak standart, kararsız kaldım.",Nötr,VALIDATE
+"Teslimat orta halliydi, paketleme normaldi.",Nötr,TEST
+"Teslimat orta halliydi, paketleme eh işte.",Nötr,TRAIN
+Performansı harika ve iyi bir tercih. Tekrar alırım.,Olumlu,TRAIN
+"Teslimat standarttı, paketleme eh işte.",Nötr,TRAIN
+"Paketleme özenli, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Genel olarak standart, çok emin değilim.",Nötr,TRAIN
+"Teslimat standarttı, paketleme vasattı.",Nötr,TRAIN
+"Genel olarak orta seviye, çok emin değilim.",Nötr,TRAIN
+"Paketleme çok iyi, ürün gayet iyi. Gayet başarılı.",Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, çalışmadı. Tavsiye etmiyorum.",Olumsuz,VALIDATE
+"Kargo biraz geç geldi, ürün arızalı çıktı. İade ettim.",Olumsuz,TEST
+"Kargo çok hızlı geldi, ürün çok kaliteli. 5/5.",Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Teslimat normaldi, paketleme vasattı.",Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. 5/5.",Olumlu,TRAIN
+Hızlı çalışıyor ve parasını hak ediyor. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Bir daha almam.",Olumsuz,TRAIN
+"Ürün fena değil, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,VALIDATE
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TEST
+Beklediğim kadar çok hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Çözülmedi.,Olumsuz,TRAIN
+Beklentimin üstünde ve iyi bir tercih. Çok memnun kaldım.,Olumlu,TRAIN
+"Paketleme özenli, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama iş görür.,Nötr,VALIDATE
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TEST
+Beklediğim kadar hızlı değildi ama çok da kötü değil.,Nötr,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. Değişim istedim.",Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün eksik geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+Malzeme kalitesi düşük. Çok kötü deneyim.,Olumsuz,TRAIN
+"Kargo geç geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TRAIN
+Stabil ve fiyatı uygun. Tekrar alırım.,Olumlu,TRAIN
+"Ürün yanlış ürün geldi, çalışmadı. Çok kötü deneyim.",Olumsuz,VALIDATE
+Malzeme kalitesi kötü. Çok kötü deneyim.,Olumsuz,TEST
+"Ürün uyumsuz çıktı, sürekli hata verdi. Pişman oldum.",Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, sürekli hata verdi. Bir daha almam.",Olumsuz,TRAIN
+"Ürün uyumsuz çıktı, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+Hızlı çalışıyor ve fiyatı uygun. Tekrar alırım.,Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün kalitesiz çıktı. Hayal kırıklığı.",Olumsuz,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+Stabil ve fiyat/performans mükemmel. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Ürün uyumsuz çıktı, performansı kötü. Tavsiye etmiyorum.",Olumsuz,VALIDATE
+"Ürün beklediğim gibi değil, çalışmadı. Bir daha almam.",Olumsuz,TEST
+"Teslimat standarttı, paketleme vasattı.",Nötr,TRAIN
+Destek ekibi ulaşılmazdı. Zaman kaybı.,Olumsuz,TRAIN
+"Genel olarak normal, deneyim orta.",Nötr,TRAIN
+"Kargo geç geldi, ürün harika. 5/5.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün eksik geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,TRAIN
+Beklentimin üstünde ve parasını hak ediyor. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,VALIDATE
+"Ürün ortalama, işimi görüyor ama daha iyisi olabilir.",Nötr,TEST
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Bir daha almam.",Olumsuz,TRAIN
+"Teslimat normaldi, paketleme standarttı.",Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,TRAIN
+"Ürün idare eder, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+Beklentimin üstünde ve iyi bir tercih. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+Hızlı çalışıyor ve parasını hak ediyor. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+Beklediğim kadar ortalama hızdaydı ama çok da kötü değil.,Nötr,TRAIN
+"Teslimat standarttı, paketleme eh işte.",Nötr,VALIDATE
+"Teslimat normaldi, paketleme eh işte.",Nötr,TEST
+"Ürün fena değil, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+"Genel olarak standart, kararsız kaldım.",Nötr,TRAIN
+Performansı harika ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+Destek ekibi hiç yardımcı olmadı. Şikayetçiyim.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Sorunsuzdu.",Olumlu,TRAIN
+"Genel olarak idare eder, kararsız kaldım.",Nötr,TRAIN
+"Paketleme düzgün, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+Stabil ve parasını hak ediyor. 5/5.,Olumlu,VALIDATE
+"Ürün anlatıldığı gibi değil, çalışmadı. Tavsiye etmiyorum.",Olumsuz,TEST
+Destek ekibi çözüm sunmadı. Memnun değilim.,Olumsuz,TRAIN
+"Paketleme çok iyi, ürün beklediğimden iyi. Sorunsuzdu.",Olumlu,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. İade süreci çok zordu.",Olumsuz,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,TRAIN
+"Kargo geç geldi, ürün hasarlı geldi. Hayal kırıklığı.",Olumsuz,TRAIN
+"Kargo geç geldi, ürün hasarlı geldi. Değişim istedim.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün gayet iyi. Tekrar alırım.",Olumlu,TRAIN
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TRAIN
+Malzeme kalitesi kötü. Bir daha almam.,Olumsuz,VALIDATE
+"Kargo zamanında geldi, ürün kalitesiz çıktı. Hayal kırıklığı.",Olumsuz,TEST
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Ürün fena değil, işimi görüyor ama geliştirilebilir.",Nötr,TRAIN
+"Paketleme özenli, ürün beklediğimden iyi. Gayet başarılı.",Olumlu,TRAIN
+"Ürün yanlış ürün geldi, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Kargo geç geldi, ürün arızalı çıktı. Hayal kırıklığı.",Olumsuz,TRAIN
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün harika. 5/5.",Olumlu,VALIDATE
+"Kargo geç geldi, ürün kalitesiz çıktı. Hayal kırıklığı.",Olumsuz,TEST
+Beklediğim kadar beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,TRAIN
+"Paketleme düzgün, ürün harika. Gayet başarılı.",Olumlu,TRAIN
+"Paketleme sağlam, ürün çok kaliteli. Gayet başarılı.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün gayet iyi. Çok memnun kaldım.",Olumlu,TRAIN
+"Ürün beklediğim gibi değil, çalışmadı. Çok kötü deneyim.",Olumsuz,TRAIN
+"Ürün yanlış ürün geldi, performansı kötü. Bir daha almam.",Olumsuz,TRAIN
+"Kargo çok hızlı geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,VALIDATE
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TEST
+Destek ekibi ulaşılmazdı. Memnun değilim.,Olumsuz,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+Beklediğim kadar hızlı değildi ama idare eder.,Nötr,TRAIN
+"Kargo zamanında geldi, ürün hasarlı geldi. İade ettim.",Olumsuz,TRAIN
+"Paketleme sağlam, ürün beklediğimden iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+"Ürün beklediğim gibi değil, performansı kötü. Bir daha almam.",Olumsuz,TRAIN
+Stabil ve fiyat/performans mükemmel. 5/5.,Olumlu,TRAIN
+Destek ekibi hiç yardımcı olmadı. Memnun değilim.,Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün çok kaliteli. Kesinlikle tavsiye ederim.",Olumlu,VALIDATE
+"Ürün ne iyi ne kötü, işimi görüyor ama geliştirilebilir.",Nötr,TEST
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+Beklentimin üstünde ve fiyatı uygun. Tekrar alırım.,Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün beklediğimden iyi. Tekrar alırım.",Olumlu,TRAIN
+"Ürün ne iyi ne kötü, işimi görüyor ama ortalamanın üstüne çıkmıyor.",Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün arızalı çıktı. Değişim istedim.",Olumsuz,TRAIN
+Beklentimin üstünde ve parasını hak ediyor. Tekrar alırım.,Olumlu,TRAIN
+"Teslimat beklendiği gibiydi, paketleme vasattı.",Nötr,TRAIN
+"Paketleme sağlam, ürün harika. Memnun kaldım.",Olumlu,VALIDATE
+"Kargo biraz geç geldi, ürün beklediğimden iyi. Kesinlikle tavsiye ederim.",Olumlu,TEST
+"Ürün beklediğim gibi değil, problem çıkardı. Bir daha almam.",Olumsuz,TRAIN
+"Kargo zamanında geldi, ürün harika. Çok memnun kaldım.",Olumlu,TRAIN
+"Kargo çok hızlı geldi, ürün beklediğimden iyi. 5/5.",Olumlu,TRAIN
+"Paketleme sağlam, ürün gayet iyi. Gayet başarılı.",Olumlu,TRAIN
+"Ürün ortalama, işimi görüyor ama daha iyi beklerdim.",Nötr,TRAIN
+Stabil ve fiyatı uygun. Tekrar alırım.,Olumlu,TRAIN
+"Genel olarak normal, beklentim karışık.",Nötr,TRAIN
+"Kargo geç geldi, ürün harika. 5/5.",Olumlu,TRAIN
+"Ürün uyumsuz çıktı, sürekli hata verdi. Çok kötü deneyim.",Olumsuz,VALIDATE
+"Kargo biraz geç geldi, ürün beklediğimden iyi. Çok memnun kaldım.",Olumlu,TEST
+Destek ekibi ulaşılmazdı. Şikayetçiyim.,Olumsuz,TRAIN
+"Kargo biraz geç geldi, ürün arızalı çıktı. İade ettim.",Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Beklentimi karşıladı.",Olumlu,TRAIN
+"Paketleme özenli, ürün gayet iyi. Beklentimi karşıladı.",Olumlu,TRAIN
+Destek ekibi geç döndü. Şikayetçiyim.,Olumsuz,TRAIN
+Malzeme kalitesi düşük. Tavsiye etmiyorum.,Olumsuz,TRAIN
+Hızlı çalışıyor ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TRAIN
+"Ürün fena değil, işimi görüyor ama daha iyisi olabilir.",Nötr,TRAIN
+Destek ekibi ulaşılmazdı. Çözülmedi.,Olumsuz,VALIDATE
+Destek ekibi çözüm sunmadı. Memnun değilim.,Olumsuz,TEST
+Malzeme kalitesi vasat. Bir daha almam.,Olumsuz,TRAIN
+Malzeme kalitesi berbat. Çok kötü deneyim.,Olumsuz,TRAIN
+Destek ekibi çözüm sunmadı. Şikayetçiyim.,Olumsuz,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Memnun kaldım.",Olumlu,TRAIN
+"Kurulum {kolay}, kullanım {rahat}. Gayet başarılı.",Olumlu,TRAIN
+"Kargo biraz geç geldi, ürün harika. Tekrar alırım.",Olumlu,TRAIN
+"Genel olarak orta seviye, deneyim orta.",Nötr,TRAIN
+"Kargo geç geldi, ürün eksik geldi. Değişim istedim.",Olumsuz,TRAIN
+Destek ekibi geç döndü. Memnun değilim.,Olumsuz,VALIDATE
+Beklentimin üstünde ve parasını hak ediyor. Çok memnun kaldım.,Olumlu,TEST
+Beklentimin üstünde ve iyi bir tercih. Kesinlikle tavsiye ederim.,Olumlu,TRAIN
+"Genel olarak standart, beklentim karışık.",Nötr,TRAIN
+"Paketleme düzgün, ürün beklediğimden iyi. Sorunsuzdu.",Olumlu,TRAIN
+Beklediğim kadar beklediğim kadar hızlı değildi ama kullanılabilir.,Nötr,TRAIN
+"Kargo çok hızlı geldi, ürün kalitesiz çıktı. Değişim istedim.",Olumsuz,TRAIN
+Beklediğim kadar ortalama hızdaydı ama idare eder.,Nötr,TRAIN
+"Kargo biraz geç geldi, ürün arızalı çıktı. İade süreci çok zordu.",Olumsuz,TRAIN
+"Ürün anlatıldığı gibi değil, sürekli hata verdi. Çok kötü deneyim.",Olumsuz,TRAIN
