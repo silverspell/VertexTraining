@@ -1,0 +1,66 @@
+main:
+  params: [args]
+  steps:
+    - init:
+        assign:
+          - project: "vertextraining-486212"
+          - docai_region: "europe-west2"
+          - processor: "f5b806adb34af3ee"
+          - gcs_uri: ${args.gcs_uri}
+          - mime_type: ${default(args.mime_type, "application/pdf")}
+          - use_gemini: true
+          - gemini_model: "gemini-2.5-flash"
+          - gemini_region: "europe-west2"
+    - docai_batch_process:
+        call: http.post
+        args:
+          url: ${"https://" + docai_region + "-documentai.googleapis.com/v1/projects/" + project + "/locations/" + docai_region + "/processors/" + processor + ":batchProcess"}
+          auth:
+            type: OAuth2
+          headers:
+            Content-Type: application/json
+          body:
+            inputDocuments:
+              gcsDocuments:
+                documents:
+                  - gcsUri: ${gcs_uri}
+                    mimeType: ${mime_type}
+            documentOutputConfig:
+              gcsOutputConfig:
+                gcsUri: ${args.output_gcs_prefix}
+                fieldMask: "text,entities,pages"
+            skipHumanReview: true
+        result: docai_op
+    - extract_text:
+        assign:
+          # Document AI response içinde `document.text` bekliyoruz
+          - doc_text: ${docai_op.body.document.text}
+    - maybe_gemini:
+        switch:
+          - condition: ${use_gemini}
+            next: gemini_summarize
+        next: done
+    - gemini_summarize:
+        call: http.post
+        args:
+          url: ${"https://" + gemini_region + "-aiplatform.googleapis.com/v1/projects/" + project + "/locations/" + gemini_region + "/publishers/google/models/" + gemini_model + ":generateContent"}
+          auth:
+            type: OAuth2
+          headers:
+            Content-Type: application/json
+          body:
+            contents:
+              - role: user
+                parts:
+                  - text: ${"Şu metni 5 madde ile özetle:
+
+" + doc_text}
+            generationConfig:
+              temperature: 0
+              maxOutputTokens: 256
+        result: gemini_resp
+    - done:
+        return:
+          docai: ${docai_op.body}
+          extracted_text_preview: ${text.substring(doc_text, 0, 500)}
+          gemini: ${default(gemini_resp.body, null)}
